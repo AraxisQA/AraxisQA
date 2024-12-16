@@ -1,3 +1,5 @@
 <div id="header" align="center">
-  <img src="https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy.gif" width="100"/>
+  <img src="https://media.giphy.com/media/74Gczlhl7jE1G/giphy.gif" width="300"/>
 </div>
+
+### :man_technologist: About Me :
