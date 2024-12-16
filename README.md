@@ -1,4 +1,1 @@
-<div id="header" align="center">
-  <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExbWY0djhtZGc4cG1oajczeHU3YTExYXBhZHdsNzcyeWJtNmVra3R6NSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/j3OL6mSc2FeV0UHMDg/giphy-downsized-large.gif" width="100"/>
-</div>
-
+<div style="width:100%;height:0;padding-bottom:57%;position:relative;"><iframe src="https://giphy.com/embed/j3OL6mSc2FeV0UHMDg" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div><p><a href="https://giphy.com/gifs/RawFury-raccoon-backbone-howard-lotar-j3OL6mSc2FeV0UHMDg">via GIPHY</a></p>
